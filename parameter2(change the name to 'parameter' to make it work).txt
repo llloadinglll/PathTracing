@@ -1,0 +1,2 @@
+obj_file ./scene_2_obj/scene02_perfect_sphere.obj
+parameter_file ./scene_2_obj/scene02_parameters.txt

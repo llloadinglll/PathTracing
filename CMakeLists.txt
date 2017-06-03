@@ -1,0 +1,4 @@
+PROJECT(PathTracing CXX)
+
+ADD_SUBDIRECTORY(PathTracing)
+
